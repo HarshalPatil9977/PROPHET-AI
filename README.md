@@ -8,7 +8,7 @@ The platform combines technical analysis, quantitative research, options intelli
 
 
 <p align="center">
-  <img src="./PROPHET_AI_promotional_video_pro…_20260915160003.gif" alt="PROPHET AI Demo" width="100%">
+  <gif src="./PROPHET_AI_promotional_video_pro…_20260915160003.gif" alt="PROPHET AI Demo" width="100%">
 </p>
 
 
