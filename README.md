@@ -6,6 +6,12 @@ PROPHET AI is an AI-powered market intelligence platform designed to analyze Ind
 
 The platform combines technical analysis, quantitative research, options intelligence, market sentiment, fundamentals, macro factors, risk analysis, and multi-agent AI reasoning into a unified trading research environment.
 
+
+<p align="center">
+  <img src="./PROPHET_AI_promotional_video_pro…_20260915160003.gif" alt="PROPHET AI Demo" width="100%">
+</p>
+
+
 ## 🚀 Core Features
 
 - 🤖 60 Specialized AI Research Agents
